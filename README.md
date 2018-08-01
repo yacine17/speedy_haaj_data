@@ -6,3 +6,4 @@ Hajj Hackathon App
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+# speedy_haaj_data
